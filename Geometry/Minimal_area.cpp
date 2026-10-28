@@ -21,7 +21,7 @@ void solve(){
         ll x1 = v[i].first, y1 = v[i].second, x2 = v[(i + 1) % n].first, y2 = v[(i + 1) % n].second;
         ll x3 = v[(i + 2) % n].first, y3 = v[(i + 2) % n].second;
 
-        ll d = x1 * y2 + x2 * y3 + x3 * y1;
+        ll d = x1 * y2 + x2 * y3 + x3 * y1; //shoelace apply korechi
         ll b = y1 * x2 + y2 * x3 + y3 * x1;
 
         ll d_area = abs(b - d);
