@@ -1,0 +1,1 @@
+{"name":"Local: Region","url":"d:\\Problem Solving\\The Ultimate Topic List\\Geometry\\Region.cpp","tests":[{"id":1793254481064,"input":"2\n5.70 1.00 7.89\n478.61 759.84 28.36","output":"1.2243\n2361.0058"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Problem Solving\\The Ultimate Topic List\\Geometry\\Region.cpp","group":"local","local":true}
